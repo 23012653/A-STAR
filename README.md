@@ -122,8 +122,8 @@ aStarAlgo(start, goal)
 <hr>
 <h2>Sample Graph I</h2>
 <hr>
+![Screenshot 2025-04-21 093120](https://github.com/user-attachments/assets/6ec974af-3092-4334-b93c-de751b8f6a7a)
 
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/b1377c3f-011a-4c0f-a843-516842ae056a)
 
 <hr>
 <h2>Sample Input</h2>
@@ -157,7 +157,8 @@ J 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
-![WhatsApp Image 2025-04-21 at 09 24 43_1cba8029](https://github.com/user-attachments/assets/c7b7b4c5-0843-4398-a459-7b741a10d7d1)
+![Screenshot 2025-04-21 093144](https://github.com/user-attachments/assets/9346e73c-e7ef-4e06-9cfc-6c583dd6e310)
+
 
 
 
